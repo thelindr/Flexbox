@@ -6,16 +6,16 @@ Today's assignment is to learn how to use flexbox – a more modern way of layou
 
 This assignment will be in two parts. 
 
-1. Do the excercises on ![Flexbox Froggy](http://flexboxfroggy.com) 1-24 to really understand how Flexbox works. 
+1. Do the excercises on [Flexbox Froggy](http://flexboxfroggy.com) 1-24 to really understand how Flexbox works. 
 
-2. Do you remember your ![Yearbook Assignment](https://github.com/Technigo/assignment-yearbook) from earlier this sprint? Let's update it to instead use Flexbox. 
+2. Do you remember your [Yearbook Assignment](https://github.com/Technigo/assignment-yearbook) from earlier this sprint? Let's update it to instead use Flexbox. 
 
 
 ## How to complete this assignment
 
 Start by read up a little about flexbox. We gathered a few links below to better understand what it is and how to use it. We also included a great link to see how different technologies are supported in different browsers. Go check out flexbox and what support it has! [Can I use?](https://caniuse.com/)
 
-Part 1. Go to ![Flexbox Froggy](http://flexboxfroggy.com) and do the excercises 1-24. 
+Part 1. Go to [Flexbox Froggy](http://flexboxfroggy.com) and do the excercises 1-24. 
 
 Part 2. To complete this assignment, you need to fork this repository, copy your code from the Yearbook assignment into the new repositoty, refactor your old code to use flexbox instead, and then submit a pull request on GitHub (from your repository into the technigo one) for review. Important is that you keep your old code in your old Yearbook repository and make the updates in this new one. 
 
