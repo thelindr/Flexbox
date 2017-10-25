@@ -8,9 +8,8 @@ This assignment will be in two parts.
 
 1. Do the excercises on ![Flexbox Froggy](http://flexboxfroggy.com/) 1-24 to really understand how Flexbox works. 
 
-2. Do you remember your Yearbook assignment from earlier this sprint? Let's update it to instead use Flexbox. 
+2. Do you remember your ![Yearbook Assignment](https://github.com/Technigo/assignment-yearbook) from earlier this sprint? Let's update it to instead use Flexbox. 
 
-![Design](https://github.com/Technigo/assignment-1-yearbook/blob/master/design.png)
 
 ## How to complete this assignment
 
