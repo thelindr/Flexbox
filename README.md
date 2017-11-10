@@ -17,9 +17,9 @@ Start by reading up a little on flexbox. We gathered a few links below to help y
 
 Part 1. Go to [Flexbox Froggy](http://flexboxfroggy.com) and do the exercises 1-24.
 
-Part 2. To complete this assignment, you need to fork this repository, copy your code from the Yearbook assignment into the new repository, refactor your old code to use flexbox instead, and then submit a pull request on GitHub (from your repository into the Technigo one) for review. Important — make sure that you keep your old code in your old Yearbook repository and make the updates in this new one.
+Part 2. To complete this assignment, you need to fork this repository and copy your code from the Yearbook assignment into the `code` folder. Then refactor the code to use flexbox. Finally, as always, submit a pull request on GitHub (from your repository into the Technigo one) for review.
 
-The `starter-code` folder containers a boilerplate code, like last time. Feel free to use this as your file structure and copy your code into these.
+:warning: **Important — make sure that you keep your old code in your old Yearbook repository and make the updates in this new one.** :warning:
 
 ### :books: Reading List
 
@@ -50,4 +50,4 @@ After completing this assignment, you should be comfortable using flexbox to cre
 Done with the main task? Here's some ideas for things to continue with:
 
 1. Make your yearbook responsive. Make the photo grid 4 columns on desktop, 2 columns on tablet and 1 column on mobile.
-2. Revisit the stretch goals from the Yearbook Assignment, if you haven't finished those. 
+2. Revisit the stretch goals from the first Yearbook Assignment, if you haven't finished those.
