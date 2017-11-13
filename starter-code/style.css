@@ -1,0 +1,68 @@
+
+html {
+  background: #0025FF;
+  color: #fff;
+}
+
+
+header {
+  padding: 20px;
+}
+
+.logo {
+  text-align: center;
+  display: inline-block;
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  background: #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo img {
+  width: 140px;
+  margin-top: 55px;
+}
+
+.container {
+margin: auto;
+padding: 5vw;
+background: #ffc9d9;
+width: 76vw;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+}
+
+
+.card {
+  height: 240px;
+  margin-top: 2vw;
+  border-style: dotted;
+  margin: 1vw;
+ }
+
+
+
+.imgcontainer {
+width: 179px;
+height: 179px;
+overflow: hidden;
+}
+
+.imgcontainer img {
+height: auto;
+width: 100%;
+
+}
+
+
+.card p  {
+text-align: center;
+font-size: 25px;
+font-family: 'Varela', sans-serif;
+color: #f19333;
+
+}
