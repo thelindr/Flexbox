@@ -19,7 +19,7 @@ Part 1. Go to [Flexbox Froggy](http://flexboxfroggy.com) and do the exercises 1-
 
 Part 2. To complete this assignment, you need to fork this repository and copy your code from the Yearbook assignment into the `code` folder. Then refactor the code to use flexbox. Finally, as always, submit a pull request on GitHub (from your repository into the Technigo one) for review.
 
-:warning: **Important — make sure that you keep your old code in your old Yearbook repository and make the updates in this new one.** :warning:
+:warning: **Important — Don't accidentally make updates in your old yearbook codebase! Leave that one as it is, and use this "assignment-flexbox" repository for the re-write.** :warning:
 
 ### :books: Reading List
 
