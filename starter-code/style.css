@@ -28,21 +28,24 @@ header {
 
 .container {
 margin: auto;
+margin-top: 5%;
 padding: 5vw;
 background: #ffc9d9;
-width: 76vw;
+width: 64%;
 height: auto;
 display: flex;
 flex-wrap: wrap;
+justify-content: space-between;
 }
 
 
 .card {
   height: 240px;
-  margin-top: 2vw;
+  width: 205px;
+  margin-top: 4%;
   border-style: dotted;
-  margin: 1vw;
  }
+
 
 
 
@@ -50,6 +53,9 @@ flex-wrap: wrap;
 width: 179px;
 height: 179px;
 overflow: hidden;
+margin: auto;
+margin-top: 5%;
+box-shadow: 2px 2px 5px #0025ff;
 }
 
 .imgcontainer img {
@@ -64,5 +70,17 @@ text-align: center;
 font-size: 25px;
 font-family: 'Varela', sans-serif;
 color: #f19333;
+margin-top: 6%;
+letter-spacing: 2px;
+text-shadow: 1px 1px #0025ff;
 
+}
+
+
+@media (max-width:400px) {
+
+.card {
+  margin-left: 2vw;
+  margin-top: 4vw;
+}
 }
