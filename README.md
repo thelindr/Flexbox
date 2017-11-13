@@ -51,3 +51,4 @@ Done with the main task? Here's some ideas for things to continue with:
 
 1. Make your yearbook responsive. Make the photo grid 4 columns on desktop, 2 columns on tablet and 1 column on mobile.
 2. Revisit the stretch goals from the first Yearbook Assignment, if you haven't finished those.
+3. Try create the [Holy Grail Layout](https://en.wikipedia.org/wiki/Holy_grail_(web_design)) using flexbox.
